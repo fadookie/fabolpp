@@ -1,6 +1,6 @@
 /*A 12-bit integer simulator by Eliot Lash
- */
-/*This file is part of FABOL++.
+ *
+ *This file is part of FABOL++.
  *
  *FABOL++ is free software: you can redistribute it and/or modify
  *it under the terms of the GNU General Public License as published by
