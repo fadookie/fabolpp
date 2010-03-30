@@ -1,0 +1,6 @@
+FABOL++ is a console application designed initially to run in a Unix command line.
+
+To compile FABOL++, simply run "make" from the fabolpp directory.
+FABOL++ can then be invoked by typing "./fabolpp".
+
+To remove build products, run "make clean".

@@ -1,0 +1,22 @@
+h1. Background
+
+FABOL++ is an interpreter for FABOL, the Fortran-Assembly-Basic Oriented Language. FABOL was created between 1974 and 1976 by "Bob Lash":http://www.bambi.net/bob/bio.html, an original member of the "Homebrew Computer Club":http://en.wikipedia.org/wiki/Homebrew_Computer_Club. It was designed to be the high-level programming language for his 12-bit microprogrammed minicomputer affectionately known as the "Blue Computer."
+
+As suggested from its name, the language mixes elements from FORTRAN, BASIC, and assembly language to facilitate readable code that is highly optimized to run on the Blue Computer.
+
+FABOL++ was started by Bob's son, Eliot Lash, as a means to run historical FABOL programs on modern computers as well as an exercise in learning C++. It is designed to be platform agnostic, written using the C++ Standard Library.
+
+h1. License
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
