@@ -16,9 +16,9 @@
  *along with FABOL++.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+#define UINT12MAX 4096
 #include <iostream>
 //#include <string>
-#define UINT12MAX 4096
 
 using namespace std;
 typedef unsigned short UINT12;
