@@ -1,10 +1,10 @@
 h1. Background
 
-FABOL++ is an interpreter for FABOL, the Fortran-Assembly-Basic Oriented Language. FABOL was created between 1974 and 1976 by "Bob Lash":http://www.bambi.net/bob/bio.html, an original member of the "Homebrew Computer Club":http://en.wikipedia.org/wiki/Homebrew_Computer_Club. It was designed to be the high-level programming language for his 12-bit microprogrammed minicomputer affectionately known as the "Blue Computer."
+FABOL++ will be an interpreter for FABOL, the Fortran-Assembly-Basic Oriented Language. FABOL was created between 1974 and 1976 by "Bob Lash":http://www.bambi.net/bob/bio.html, an original member of the "Homebrew Computer Club":http://en.wikipedia.org/wiki/Homebrew_Computer_Club. It was designed to be the high-level programming language for his 12-bit microprogrammed minicomputer affectionately known as the "Blue Computer."
 
 As suggested from its name, the language mixes elements from FORTRAN, BASIC, and assembly language to facilitate readable code that is highly optimized to run on the Blue Computer.
 
-FABOL++ was started by Bob's son, Eliot Lash, as a means to run historical FABOL programs on modern computers as well as an exercise in learning C++. It is designed to be platform agnostic, written using the C++ Standard Library.
+FABOL++ was started by Bob's son, Eliot Lash, as a means to run historical FABOL programs on modern computers as well as an exercise in learning crossplatform C++.
 
 h1. License
 
